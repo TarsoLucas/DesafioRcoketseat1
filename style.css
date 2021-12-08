@@ -1,6 +1,33 @@
 
-   body {
-    background: #eaeaea;
-    font-family: 'Roboto', sans-serif;
-  }
- 
+body {
+  background: linear-gradient(purple, pink);
+  font-family: 'Roboto', sans-serif;
+ }
+
+ h1, h3, footer{
+   text-align:center
+ }
+
+ div{
+   background:linear-gradient(white,#F2F0F7);
+   margin-left: 25%;
+   margin-right: 25%;
+   border-radius: 20px;
+   padding: 5px;
+ }
+
+ img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   border-radius: 20px;
+   height: 250px;
+   width: 100%;
+ }
+
+ p{
+   margin-left: 30px;
+ }
+ #legendaimg{
+   font-size: 10px;
+ }
